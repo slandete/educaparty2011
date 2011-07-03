@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+    Copyright 2010 Google Inc.
+
+    Licensed under the Apache License, Version 2.0 (the "License");
+    you may not use this file except in compliance with the License.
+    You may obtain a copy of the License at
+
+         http://www.apache.org/licenses/LICENSE-2.0
+
+    Unless required by applicable law or agreed to in writing, software
+    distributed under the License is distributed on an "AS IS" BASIS,
+    WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+    See the License for the specific language governing permissions and
+    limitations under the License.
+-->
+<rooms>
+    
+    <room><id>1</id><name>-</name><floor>2</floor></room>
+    <room><id>2</id><name>Zona de Ciencia</name><floor>2</floor></room>
+    <room><id>3</id><name>Zona de Creatividad</name><floor>2</floor></room>
+    <room><id>4</id><name>Auditorio Museo Príncipe Felipe</name><floor>2</floor></room>
+    <room><id>5</id><name>Zona de Innovación</name><floor>2</floor></room>
+    <room><id>6</id><name>Innovación</name><floor>2</floor></room>
+    <room><id>7</id><name>Zona de Creatividad</name><floor>2</floor></room>
+    <room><id>8</id><name>Ciencia</name><floor>2</floor></room>
+    <room><id>9</id><name>Exterior</name><floor>2</floor></room>
+    <room><id>10</id><name>Escenario de Ciencia</name><floor>2</floor></room>
+    <room><id>11</id><name>Creatividad</name><floor>2</floor></room>
+    <room><id>12</id><name>Zona de Innovación: ROVIO</name><floor>2</floor></room>
+    <room><id>13</id><name>Estadium</name><floor>2</floor></room>
+    <room><id>14</id><name>Zona de Juegos</name><floor>2</floor></room>
+    <room><id>15</id><name>Zona de Modding</name><floor>2</floor></room>
+    <room><id>16</id><name>Escenario de Ciencia Ágora</name><floor>2</floor></room>
+    <room><id>17</id><name>Área de Simulación</name><floor>2</floor></room>
+    <room><id>18</id><name>Stadium Museo Príncipe Felipe</name><floor>2</floor></room>
+    <room><id>19</id><name>Escenario Creatividad - Ágora</name><floor>2</floor></room>
+    <room><id>20</id><name>Escenario Innovación - Ágora</name><floor>2</floor></room>
+    <room><id>21</id><name>Cheste</name><floor>2</floor></room>
+    <room><id>22</id><name>Oceanogràfic</name><floor>2</floor></room>
+    <room><id>23</id><name>EducaParty</name><floor>2</floor></room>
+    <room><id>24</id><name>Escenario Ciencia - Ágora</name><floor>2</floor></room>
+    <room><id>25</id><name>Escenario Ciencia - Museo</name><floor>2</floor></room>
+</rooms>

@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Copyright 2010 Google Inc. Licensed under the Apache License, Version 
+	2.0 (the "License"); you may not use this file except in compliance with 
+	the License. You may obtain a copy of the License at http://www.apache.org/licenses/LICENSE-2.0 
+	Unless required by applicable law or agreed to in writing, software distributed 
+	under the License is distributed on an "AS IS" BASIS, WITHOUT WARRANTIES 
+	OR CONDITIONS OF ANY KIND, either express or implied. See the License for 
+	the specific language governing permissions and limitations under the License. -->
+<tracks>
+<!--	<track>
+		<name>Astronomía</name>
+		<color>#A0CEFF</color>
+		<abstract>Astronomía y Espacio</abstract>
+	</track>
+	<track>
+		<name>Campus Forum</name>
+		<color>#A0CE67</color>
+		<abstract>Campus Forum</abstract>
+	</track>
+	<track>
+		<name>Modding y Hardware</name>
+		<color>#FF0000</color>
+		<abstract>Modding y Hardware</abstract>
+	</track>
+-->
+	<track>
+		<name>Contenidos Estelares</name>
+		<color>#FFCC00</color>
+		<abstract>Contenidos Estelares</abstract>
+	</track>
+<!--	<track>
+		<name>Diseño</name>
+		<color>#0FABFF</color>
+		<abstract>Diseño</abstract>
+	</track>
+	<track>
+		<name>Fotografía y Video</name>
+		<color>#A0CE67</color>
+		<abstract>Fotografía y Video</abstract>
+	</track>
+	<track>
+		<name>Modding</name>
+		<color>#EEB211</color>
+		<abstract>Modding</abstract>
+	</track>
+
+	<track>
+		<name>Música</name>
+		<color>#0066CC</color>
+		<abstract>Música</abstract>
+	</track>
+
+	<track>
+		<name>Robótica</name>
+		<color>#BF0000</color>
+		<abstract>Robótica</abstract>
+	</track>
+	<track>
+		<name>Seguridad y Redes</name>
+		<color>#007A3F</color>
+		<abstract>Seguridad y Redes</abstract>
+	</track>
+	<track>
+		<name>Simulación</name>
+		<color>#2A5699</color>
+		<abstract>Simulación</abstract>
+	</track>
+	<track>
+		<name>Social Media</name>
+		<color>#00FF39</color>
+		<abstract>Social Media</abstract>
+	</track>
+
+	<track>
+		<name>Software Libre</name>
+		<color>#009939</color>
+		<abstract>Software Libre</abstract>
+	</track>
+
+	<track>
+		<name>Desarrolladores</name>
+		<color>#FF9939</color>
+		<abstract>Desarrollo de Software</abstract>
+	</track>
+	<track>
+		<name>Juegos</name>
+		<color>#FFFF39</color>
+		<abstract>Juegos</abstract>
+	</track>
+-->
+	<track>
+		<name>EDUCAPARTY</name>
+		<color>#8A0829</color>
+		<abstract>EDUCAPARTY</abstract>
+	</track>
+	
+</tracks>

@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+    Copyright 2010 Google Inc.
+
+    Licensed under the Apache License, Version 2.0 (the "License");
+    you may not use this file except in compliance with the License.
+    You may obtain a copy of the License at
+
+         http://www.apache.org/licenses/LICENSE-2.0
+
+    Unless required by applicable law or agreed to in writing, software
+    distributed under the License is distributed on an "AS IS" BASIS,
+    WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+    See the License for the specific language governing permissions and
+    limitations under the License.
+-->
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="app_name">EducaParty 2011</string>
+
+    <string name="description_logo">EducaParty 2011</string>
+    <string name="description_home">Home</string>
+    <string name="description_search">Procurar</string>
+    <string name="description_map">Mapa</string>
+    <string name="description_refresh">Atualizar</string>
+    <string name="description_share">Compartilhar</string>
+    <string name="description_export">Exportar</string>
+    <string name="description_star">Favoritos</string>
+
+    <string name="title_now_playing">Ahora</string>
+    <string name="title_schedule">Agenda</string>
+    <string name="title_sessions">Sessões</string>
+    <string name="title_starred">Favoritos</string>
+    <string name="title_tracks">Trilhas</string>
+    <string name="title_vendors">Sandbox</string>
+    <string name="title_map">Mapa</string>
+    <string name="title_notes">Notas</string>
+    <string name="title_note_edit">Editar nota</string>
+
+    <string name="title_session_tracks">Trilhas de Sessão</string>
+    <string name="title_vendor_tracks">Trilhas de Sandbox</string>
+
+    <string name="title_share">Compartilhar usando</string>
+
+    <string name="title_search">Procurar</string>
+    <string name="title_search_query">Procurar por \'<xliff:g id="query">%1$s</xliff:g>\'</string>
+
+    <string name="btn_schedule">Agenda</string>
+    <string name="btn_map">Mapa</string>
+    <string name="btn_sessions">Sessões</string>
+    <string name="btn_starred">Favoritos</string>
+    <string name="btn_vendors">Sandbox</string>
+    <string name="btn_notes">Minhas Notas</string>
+	<string name="btn_tv">CampusTV</string>
+	
+    <string name="toast_sync_error">Erro de Sincronização: <xliff:g id="error">%1$s</xliff:g></string>
+
+    <string name="session_subtitle"><xliff:g id="time">%1$s</xliff:g> na(o) <xliff:g id="room">%2$s</xliff:g></string>
+    <string name="session_moderator_status"><xliff:g id="questions">%1$s</xliff:g> questões submetidas e <xliff:g id="votes">%2$s</xliff:g> voto(s) feito(s).</string>
+
+    <string name="empty_sessions">Sessões não encontradas</string>
+    <string name="empty_session_detail">Detalhes de sessão não encontrados</string>
+    <string name="empty_vendors">Não foram encontrados sandbox</string>
+    <string name="empty_notes">Nenhuma nota encontrada</string>
+    <string name="empty_search">Nenhuma pesquisa encontrada</string>
+
+    <string name="session_summary">Resumo</string>
+    <string name="session_notes">Notas</string>
+    <string name="session_moderator">Moderador</string>
+    <string name="session_interact">Interact</string>
+    <string name="session_requirements">Requisitos</string>
+    <string name="session_speakers">Oradores</string>
+
+    <string name="track_summary">Resumo</string>
+    <string name="track_sessions">Sessões</string>
+    <string name="track_vendors">Sandbox</string>
+
+    <string name="search_sessions">Sessões</string>
+    <string name="search_vendors">Sandbox</string>
+
+    <string name="starred_sessions">Sessões</string>
+    <string name="starred_vendors">Sandbox</string>
+
+    <string name="search_label">EducaParty 2011</string>
+    <string name="search_hint">Palavras-chave de sessão</string>
+
+    <string name="share_template">Estoy participando en \'<xliff:g id="title">%1$s</xliff:g>\'  #cpes15 <xliff:g id="hashtag">%2$s</xliff:g></string>
+    <string name="share_notes">Notas exportadas de EducaParty 2011 para Android</string>
+
+    <string name="moderator_header">Moderador</string>
+    <string name="moderator_summary">Utilize o Moderador para perguntar durante esta sessão e vote sobre outras questões.</string>
+    <string name="wave_header">Wave</string>
+    <string name="wave_summary">Use Wave to collaborate in real-time with others during this session.</string>
+
+    <string name="dialog_moderator_title">Google Moderator</string>
+    <string name="dialog_moderator_message">The official Google Moderator app is available in Market, would you like to install it or continue using a normal browser?</string>
+
+    <string name="dialog_moderator_web">Use Browser</string>
+    <string name="dialog_moderator_market">Visit Market</string>
+
+    <string name="dialog_wave_title">Google Wave</string>
+    <string name="dialog_wave_message">The Google Wave mobile interface is still in beta, and using a desktop or laptop is recommended for the best experience.\n\nContinue to Google Wave anyway?</string>
+
+    <string name="speaker_template"><xliff:g id="name">%1$s</xliff:g>, <xliff:g id="company">%2$s</xliff:g></string>
+
+    <string name="note_save">Gravar</string>
+    <string name="note_discard">Descartar</string>
+
+    <string name="note_create">Criar nova nota</string>
+    <string name="note_hint">Digite a nota</string>
+
+    <string name="note_discard_title">Discartar nota?</string>
+    <string name="note_discard_confirm">Tem certeza que você quer discartar esta nota?</string>
+
+    <string name="note_before"><xliff:g id="time">%1$s</xliff:g> antes da sessão</string>
+    <string name="note_into"><xliff:g id="time">%1$s</xliff:g> durante a sessão</string>
+    <string name="note_after"><xliff:g id="time">%1$s</xliff:g> depois da sessão</string>
+
+    <string name="now_playing_loading">Procurando por sessões próximas\u2026</string>
+    <string name="now_playing_no_results">Nenhuma sessão próxima.</string>
+    <string name="now_playing_enable_wifi">Clique aqui para habilitar o Wi-Fi para localização indoor.</string>
+
+    <plurals name="now_playing_countdown">
+        <item quantity="zero"><xliff:g id="remaining_time">%2$s</xliff:g></item>
+        <item quantity="one"><xliff:g id="number_of_days">%1$s</xliff:g> dia, <xliff:g id="remaining_time">%2$s</xliff:g></item>
+        <item quantity="other"><xliff:g id="number_of_days">%1$s</xliff:g> dias, <xliff:g id="remaining_time">%2$s</xliff:g></item>
+    </plurals>
+
+    <string name="now_playing_before_subtitle">Contagem regressiva EducaParty 2011!</string>
+    <string name="now_playing_after_title">Até próxima!</string>
+    <string name="now_playing_after_subtitle">Obrigado por participar.</string>
+
+    <string name="now_playing_title">Estou na #eParty!</string>
+    <string name="now_playing_subtitle">Aperte o botão para a direita.</string>
+    <string name="now_playing_subtitle2">Tenho que avisar a todos!</string>
+
+    <string name="permission_write">Modificar agenda</string>
+
+    <string name="widget_name">EducaParty contagem regressiva</string>
+
+</resources>
