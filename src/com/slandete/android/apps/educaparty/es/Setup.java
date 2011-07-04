@@ -51,7 +51,7 @@ public class Setup {
 	public static final String TV_URL = "http://tv.campus-party.org";
 	
 	public static final String CONTENT_AUTHORITY = "com.slandete.android.apps.educaparty.es";
-	public static final String DATABASE_NAME = "schedule_br.db";
+	public static final String DATABASE_NAME = "schedule_eparty.db";
 
 	public static final boolean USE_WIFI_CHECK = false;
 	public static final int VER_SESSION_HASHTAG = 27;
