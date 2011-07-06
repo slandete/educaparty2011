@@ -65,12 +65,13 @@
 		<color>#2A5699</color>
 		<abstract>Simulación</abstract>
 	</track>
+-->
 	<track>
-		<name>Social Media</name>
+		<name>Contenidos Recomendados</name>
 		<color>#00FF39</color>
 		<abstract>Social Media</abstract>
 	</track>
-
+<!--
 	<track>
 		<name>Software Libre</name>
 		<color>#009939</color>
