@@ -18,7 +18,9 @@ public class Setup {
 	 */
 
 	/*public static final String WORKSHEETS_URL = "http://spreadsheets.google.com/feeds/worksheets/0AubAZvONZm3adHpoTzZYdE1ERDdjM3ZZR0haZElvSEE/public/basic"; */
-	public static final String WORKSHEETS_URL = "http://spreadsheets.google.com/feeds/worksheets/0AvaLBPt3XQmodDRWdm1rZm5FbDF3XzJtVndzbEhWQkE/public/basic";
+	/*public static final String WORKSHEETS_URL = "http://spreadsheets.google.com/feeds/worksheets/0AvaLBPt3XQmodDRWdm1rZm5FbDF3XzJtVndzbEhWQkE/public/basic"; */
+	/* al final apunta a la hoja de cálculo "LIVE SPREADSHEET EDUCAPARTY" */
+	public static final String WORKSHEETS_URL = "http://spreadsheets.google.com/feeds/worksheets/0AvaLBPt3XQmodFQyTE1HWTBJTzlKRzRGUjhCaUxRbGc/public/basic";
 	public static final String EXTRA_STATUS_RECEIVER = "com.slandete.android.educaparty.extra.STATUS_RECEIVER";
 	public static final TimeZone CONFERENCE_TIME_ZONE = TimeZone.getTimeZone("GMT+01:00");
 
